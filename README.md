@@ -2,7 +2,7 @@
 
 The purpuse of the design is to simulate and verify the output signal (pulse) from the DAC output and DAC-ADC output.
 
-There are 16 channels connected to DACs and ADCs of the data converter.
+There are 16 channels connected to DACs and ADCs of the RF Data Converter IP, with 1.96608 (GSPS) Sampling Rate and 245.760 (MHz) Reference Clock.
 
 DAC input pattern is configurable by the case statement inside the fpga_top.sv, it is adjusted to drive 6 samples (=3ns pulse) every 32 clock cycles.
 
