@@ -14,11 +14,12 @@ DAC input pattern is configurable by the case statement inside the fpga_top.sv, 
 
 The customized interface board is used for physical connectivity between the DAC output channel of the FPGA to the oscilloscope, and also to connect the ADC input channel to the FPGA for loopback testing.
 
-<img src="PIC_01.jpg" width=500>  <img src="PIC_02.jpg" width=500>  
-
 The customizable Integrated Logic Analyzer (ILA) IP cores are added to monitor and verify the internal signals.
 
-
+<img src="PIC_01.jpg" width=500>  <img src="PIC_02.jpg" width=500>  
+  
+  
+----------------------------------------------------------------------   
 FPGA Board: XCZU49DR
 \
 Vivado Version: 2020.2
