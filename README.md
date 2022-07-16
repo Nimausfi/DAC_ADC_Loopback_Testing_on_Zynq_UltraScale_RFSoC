@@ -15,8 +15,8 @@ DAC input pattern is configurable by the case statement inside the fpga_top.sv, 
 
 The customized interface board is used for connectivity between the DAC output channel of the FPGA to the oscilloscope, and also to connect the ADC input channel to the FPGA for loopback testing.
 
-
-[IMAGES]
+\
+<img src="PIC_01.jpg" width=500>  <img src="PIC_02.jpg" width=500>  
 
 
 ADD ABOUT ILA CORES + CHIPSCOPE
