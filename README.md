@@ -19,7 +19,7 @@ The customizable Integrated Logic Analyzer (ILA) IP cores are added to monitor a
 <img src="PIC_01.jpg" width=500>  <img src="PIC_02.jpg" width=500>  
   
   
-----------------------------------------------------------------------   
+-----------------------------------------------------------------------
 FPGA Board: XCZU49DR
 \
 Vivado Version: 2020.2
