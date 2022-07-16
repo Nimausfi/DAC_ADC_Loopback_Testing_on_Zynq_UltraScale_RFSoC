@@ -16,7 +16,7 @@ The customized interface board is used for physical connectivity between the DAC
 
 The customizable Integrated Logic Analyzer (ILA) IP cores are added to monitor and verify the internal signals.
 
-<img src="PIC_01.jpg" width=500>  <img src="PIC_02.jpg" width=500>  
+<img src="PIC_01.jpg" width=400>  <img src="PIC_02.jpg" width=400>  
   
   
 -----------------------------------------------------------------------
